@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c0aba8-5e71-4daf-a3b9-082724eccd0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/belajarDesctructuring.ts" beforeDir="false" afterPath="$PROJECT_DIR$/belajarDesctructuring.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restParameter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/restParameter.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arrowFat.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+            <state relative-caret-position="230">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -54,17 +56,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/restParameter.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state>
+              <caret column="107" selection-start-column="107" selection-end-column="107" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/belajarDesctructuring.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state>
+              <caret column="39" selection-start-column="39" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -87,11 +89,11 @@
       <list>
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/belajarClassSeriDua.js" />
-        <option value="$PROJECT_DIR$/restParameter.ts" />
-        <option value="$PROJECT_DIR$/belajarDesctructuring.ts" />
         <option value="$PROJECT_DIR$/belajarClass.ts" />
         <option value="$PROJECT_DIR$/belajarClassSeriDua.ts" />
         <option value="$PROJECT_DIR$/arrowFat.ts" />
+        <option value="$PROJECT_DIR$/restParameter.ts" />
+        <option value="$PROJECT_DIR$/belajarDesctructuring.ts" />
       </list>
     </option>
   </component>
@@ -153,12 +155,12 @@
       <workItem from="1546516212920" duration="1236000" />
       <workItem from="1546520591038" duration="1241000" />
       <workItem from="1546522425064" duration="3245000" />
-      <workItem from="1546527542764" duration="3559000" />
+      <workItem from="1546527542764" duration="4125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9281000" />
+    <option name="totallyTimeSpent" value="9847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
@@ -217,20 +219,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restParameter.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belajarDesctructuring.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/belajarClass.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -245,10 +233,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/restParameter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="107" selection-start-column="107" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/arrowFat.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        <state relative-caret-position="230">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/belajarDesctructuring.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>

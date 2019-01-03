@@ -1,3 +1,4 @@
+// "..." symbol to allow you to quickly accept multiple arguments in your function and get them as an array
 function iTakeItAll(first: string, second: string, ...allOthers) {
     console.log(first, second, allOthers);
 }
