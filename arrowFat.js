@@ -12,9 +12,11 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 var Adder = /** @class */ (function () {
+    //constructor public get first parameter
     function Adder(a) {
         var _this = this;
         this.a = a;
+        //arrow function with parameter number will returning number value
         this.add = function (b) {
             return _this.a + b;
         };
@@ -31,5 +33,7 @@ var Child = /** @class */ (function (_super) {
     };
     return Child;
 }(Adder));
+//call child in the parent class to assignment value 123
 var child = new Child(123);
+//print result adding class Child
 console.log(child.callAdd(123));
